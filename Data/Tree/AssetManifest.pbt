@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17722172633581407305
+  Name: "Generic Water"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_parameter_driven_water_manual"
+  }
+}
+Assets {
   Id: 17600359723065005811
   Name: "Whitebox Wall 01"
   PlatformAssetType: 1
@@ -131,6 +140,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_tree_redwood_004"
+  }
+}
+Assets {
+  Id: 8051243982323081524
+  Name: "Cube - Rounded"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_rounded_002"
   }
 }
 Assets {

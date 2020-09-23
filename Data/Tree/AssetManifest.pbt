@@ -98,12 +98,39 @@ Assets {
   }
 }
 Assets {
+  Id: 10564053790275849498
+  Name: "Tree Redwood Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_redwood_005"
+  }
+}
+Assets {
+  Id: 10084508078489268059
+  Name: "Tree Birch 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_birch_003"
+  }
+}
+Assets {
   Id: 9610460717807904733
   Name: "Wicker Basket 02"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_fan_wicker_002_uv"
+  }
+}
+Assets {
+  Id: 9482523453034847164
+  Name: "Tree Redwood Bare Medium"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_redwood_004"
   }
 }
 Assets {
@@ -116,12 +143,39 @@ Assets {
   }
 }
 Assets {
+  Id: 5495761383943927336
+  Name: "Tree Birch 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_birch_001"
+  }
+}
+Assets {
   Id: 5367557368226090526
   Name: "Kelp Tile 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_kelp_tile_02"
+  }
+}
+Assets {
+  Id: 4992042778085698837
+  Name: "Tree Oak Stump 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_oak_stump_001"
+  }
+}
+Assets {
+  Id: 4075899056096078589
+  Name: "Tree Redwood Bare Big"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_redwood_003"
   }
 }
 Assets {

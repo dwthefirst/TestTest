@@ -37,6 +37,27 @@ Objects {
   ChildIds: 5589924367929114844
   ChildIds: 8122825931007702008
   ChildIds: 6209540251922725539
+  ChildIds: 15951935104632871510
+  ChildIds: 9188393192512679394
+  ChildIds: 17105466537313366410
+  ChildIds: 5916742834420421827
+  ChildIds: 6481427507153083764
+  ChildIds: 1136022311611143963
+  ChildIds: 1537758821440391759
+  ChildIds: 12802827282481978431
+  ChildIds: 8373560855557066557
+  ChildIds: 16066730076061251571
+  ChildIds: 4780326549447390535
+  ChildIds: 5194313673465224247
+  ChildIds: 9936246559654559682
+  ChildIds: 9701945824938008969
+  ChildIds: 17843696255541379900
+  ChildIds: 8483343773605782779
+  ChildIds: 12580455842656388129
+  ChildIds: 5556001190775213369
+  ChildIds: 11865152738956301801
+  ChildIds: 3602857355133105912
+  ChildIds: 12535236221662155986
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -46,6 +67,784 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 12535236221662155986
+  Name: "Corn Stalks"
+  Transform {
+    Location {
+      X: -12956.207
+      Y: 247.191895
+      Z: -17.9801636
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Corn Stalks"
+  }
+}
+Objects {
+  Id: 3602857355133105912
+  Name: "Corn Stalks"
+  Transform {
+    Location {
+      X: -12950
+      Z: -17.9801636
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Corn Stalks_1"
+  }
+}
+Objects {
+  Id: 11865152738956301801
+  Name: "Corn Stalks"
+  Transform {
+    Location {
+      X: -12956.207
+      Y: 247.191833
+      Z: -17.9801636
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Corn Stalks_2"
+  }
+}
+Objects {
+  Id: 5556001190775213369
+  Name: "Tree Redwood Small"
+  Transform {
+    Location {
+      X: 2900
+      Y: 850
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10564053790275849498
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12580455842656388129
+  Name: "Tree Redwood Big"
+  Transform {
+    Location {
+      X: 3000
+      Y: -1000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13986591348666186156
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8483343773605782779
+  Name: "Tree Redwood Small"
+  Transform {
+    Location {
+      X: 1100
+      Y: -1950
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10564053790275849498
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17843696255541379900
+  Name: "Tree Birch 02"
+  Transform {
+    Location {
+      X: 2500
+      Y: -1700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10084508078489268059
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9701945824938008969
+  Name: "Tree Birch 01"
+  Transform {
+    Location {
+      X: 2000
+      Y: 2650
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5495761383943927336
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9936246559654559682
+  Name: "Tree Birch 02"
+  Transform {
+    Location {
+      X: -1450
+      Y: 2100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10084508078489268059
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5194313673465224247
+  Name: "Tree Redwood Small"
+  Transform {
+    Location {
+      X: 1200
+      Y: 2700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10564053790275849498
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4780326549447390535
+  Name: "Tree Redwood Small"
+  Transform {
+    Location {
+      X: -850
+      Y: 2150
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10564053790275849498
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16066730076061251571
+  Name: "Tree Birch 01"
+  Transform {
+    Location {
+      X: -2350
+      Y: 950
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5495761383943927336
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8373560855557066557
+  Name: "Tree Birch 01"
+  Transform {
+    Location {
+      X: -2800
+      Y: -250
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5495761383943927336
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12802827282481978431
+  Name: "Tree Birch 02"
+  Transform {
+    Location {
+      X: -2700
+      Y: -1300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10084508078489268059
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1537758821440391759
+  Name: "Tree Birch 01"
+  Transform {
+    Location {
+      X: 500
+      Y: -2200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5495761383943927336
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1136022311611143963
+  Name: "Tree Oak Stump 01"
+  Transform {
+    Location {
+      X: -800
+      Y: -2350
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4992042778085698837
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6481427507153083764
+  Name: "Tree Redwood Bare Big"
+  Transform {
+    Location {
+      X: -1600
+      Y: -2000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4075899056096078589
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5916742834420421827
+  Name: "Tree Redwood Bare Medium"
+  Transform {
+    Location {
+      X: -2150
+      Y: -1550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9482523453034847164
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17105466537313366410
+  Name: "Tree Redwood Big"
+  Transform {
+    Location {
+      X: -2950
+      Y: -850
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13986591348666186156
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9188393192512679394
+  Name: "Tree Redwood Medium"
+  Transform {
+    Location {
+      X: -2700
+      Y: 350
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15712386071445108923
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15951935104632871510
+  Name: "[Alchemi] Cornstalk Group"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6921569438733057469
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 12648.9951
+            Y: -507.392578
+            Z: 17.9801636
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10929737125617356848
+      value {
+        Overrides {
+          Name: "Name"
+          String: "[Alchemi] Cornstalk Group"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -250
+            Y: 50
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8652010004977492644
+    }
   }
 }
 Objects {
@@ -440,9 +1239,8 @@ Objects {
   Name: "Tree Redwood Big"
   Transform {
     Location {
-      X: 1573.51953
+      X: 2600
       Y: 1661.08606
-      Z: -6.10351563e-05
     }
     Rotation {
     }
@@ -479,8 +1277,9 @@ Objects {
   Name: "Tree Redwood Medium"
   Transform {
     Location {
-      X: -462.745972
-      Y: 1667.72339
+      X: 50
+      Y: 2350
+      Z: -6.10351563e-05
     }
     Rotation {
     }
@@ -517,9 +1316,9 @@ Objects {
   Name: "Tree Redwood Big"
   Transform {
     Location {
-      X: -1027.33398
-      Y: 578.25177
-      Z: -3.05175781e-05
+      X: -1950
+      Y: 1650
+      Z: -6.10351563e-05
     }
     Rotation {
     }
@@ -594,9 +1393,9 @@ Objects {
   Name: "Tree Redwood Bare Small"
   Transform {
     Location {
-      X: -282.465271
-      Y: -975.594
-      Z: 3.05175781e-05
+      X: -200
+      Y: -2000
+      Z: -3.05175781e-05
     }
     Rotation {
     }
@@ -766,19 +1565,19 @@ Objects {
   Name: "Crescent - 02"
   Transform {
     Location {
-      X: 992.315
-      Y: -476.777283
-      Z: 50.1446915
+      X: 1750
+      Y: 50
+      Z: 200
     }
     Rotation {
-      Pitch: -35.0306091
-      Yaw: -173.772
-      Roll: 3.24526482e-05
+      Pitch: -35.0304565
+      Yaw: 101.227936
+      Roll: 1.45971462e-05
     }
     Scale {
-      X: 1.87586153
-      Y: 2.13415265
-      Z: 5.68414688
+      X: 2
+      Y: 7
+      Z: 6
     }
   }
   ParentId: 4781671109827199097
@@ -816,17 +1615,19 @@ Objects {
   Name: "Crescent - 02"
   Transform {
     Location {
-      X: 716.045654
-      Y: -476.777283
-      Z: 62.2910538
+      X: 1725.92151
+      Y: 325.217926
+      Z: 212.146362
     }
     Rotation {
-      Pitch: -36.5183105
+      Pitch: -36.5182495
+      Yaw: -84.999939
+      Roll: 1.27481644e-05
     }
     Scale {
-      X: 1.87586153
-      Y: 2.13415265
-      Z: 5.68414688
+      X: 2
+      Y: 7
+      Z: 6
     }
   }
   ParentId: 4781671109827199097
